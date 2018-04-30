@@ -1,6 +1,8 @@
 # rainbowTextSineWave
 
-Change the values : r = rotation - 0 is a sine wave : s = string - if you change the rotation to 1, you might want to consider changing the string to a long string.
+### Change the values 
+r = rotation - 0 is a sine wave
+s = string - if you change the rotation to 1, you might want to consider changing the string to a long string.
 
 # See it in action!
 
